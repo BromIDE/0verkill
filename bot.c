@@ -133,11 +133,17 @@ static char *names[N_NAMES]={
 	"Killme",
 	"Looser",
 	"Krueger",
-	"I'll kill you",
+	"Freddy",
+	"Johnny",
 	"Zombieman",
 	"Hellraiser",
-	"Eraser"
-};
+	"Eraser",
+	"Van Darkholme",
+	"Promestein",
+	"Crashman",
+	"Surgeon",
+	"Eliminator"
+	};
 
 static int direction=0;  /* 0=stop, 1=left, 2=right */
 static int const1,const2,const3,const4;
